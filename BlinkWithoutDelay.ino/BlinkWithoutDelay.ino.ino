@@ -29,7 +29,7 @@
 */
 
 // constants won't change. Used here to set a pin number:
-const int ledPin =  LED_BUILTIN;// the number of the LED pin
+const int ledPins =  LED_BUILTIN;// the number of the LED pin
 
 // Variables will change:
 int ledState = LOW;             // ledState used to set the LED
